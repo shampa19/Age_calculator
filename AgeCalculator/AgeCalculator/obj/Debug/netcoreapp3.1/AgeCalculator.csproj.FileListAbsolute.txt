@@ -1,0 +1,13 @@
+D:\Visual_projects\AgeCalculator\AgeCalculator\bin\Debug\netcoreapp3.1\AgeCalculator.exe
+D:\Visual_projects\AgeCalculator\AgeCalculator\bin\Debug\netcoreapp3.1\AgeCalculator.deps.json
+D:\Visual_projects\AgeCalculator\AgeCalculator\bin\Debug\netcoreapp3.1\AgeCalculator.runtimeconfig.json
+D:\Visual_projects\AgeCalculator\AgeCalculator\bin\Debug\netcoreapp3.1\AgeCalculator.runtimeconfig.dev.json
+D:\Visual_projects\AgeCalculator\AgeCalculator\bin\Debug\netcoreapp3.1\AgeCalculator.dll
+D:\Visual_projects\AgeCalculator\AgeCalculator\bin\Debug\netcoreapp3.1\AgeCalculator.pdb
+D:\Visual_projects\AgeCalculator\AgeCalculator\obj\Debug\netcoreapp3.1\AgeCalculator.csprojAssemblyReference.cache
+D:\Visual_projects\AgeCalculator\AgeCalculator\obj\Debug\netcoreapp3.1\AgeCalculator.AssemblyInfoInputs.cache
+D:\Visual_projects\AgeCalculator\AgeCalculator\obj\Debug\netcoreapp3.1\AgeCalculator.AssemblyInfo.cs
+D:\Visual_projects\AgeCalculator\AgeCalculator\obj\Debug\netcoreapp3.1\AgeCalculator.csproj.CoreCompileInputs.cache
+D:\Visual_projects\AgeCalculator\AgeCalculator\obj\Debug\netcoreapp3.1\AgeCalculator.dll
+D:\Visual_projects\AgeCalculator\AgeCalculator\obj\Debug\netcoreapp3.1\AgeCalculator.pdb
+D:\Visual_projects\AgeCalculator\AgeCalculator\obj\Debug\netcoreapp3.1\AgeCalculator.genruntimeconfig.cache
